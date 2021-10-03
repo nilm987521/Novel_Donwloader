@@ -1,3 +1,5 @@
 ttkan_donwnloader.ipynb
 .git
 .gitignore
+.ipynb_checkpoints/*
+.DS_Store
